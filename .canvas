@@ -1,4 +1,6 @@
 ---
-:page_id: 3494
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-redux-docs
+:lessons:
+- :id: 3973
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-redux-docs
+  :type: page
