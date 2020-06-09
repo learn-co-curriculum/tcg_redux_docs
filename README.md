@@ -32,7 +32,7 @@ Follow the steps in the [Basic Tutorial](https://redux.js.org/basics/basic-tutor
 
 ## Advanced Tutorial
 
-Follow the steps in the [Advanced Tutorial](https://redux.js.org/advanced/advanced-tutorial) to build an app with async actions and middleware. This tutorial will take about 30 minutes. Be sure to get the code to run at each intermediate step. Get the Reddit API example running. Read through the working code, and see if you can explain each line. If there's a line that you don't understand, treat that like a bug. Use the tutorial, google, or another instructor to help make sure you have an understanding of what each line of code is doing.
+Follow the steps in the [Advanced Tutorial](https://redux.js.org/advanced/advanced-tutorial) to build an app with async actions and middleware. This tutorial will take about 30 minutes. Be sure to get the code to run at each intermediate step. Get the Reddit API example running. Read through the working code, and see if you can explain each line. If there's a line that you don't understand, treat that like a bug. Use the tutorial, google, or work with a colleague to help make sure you have an understanding of what each line of code is doing.
 
 ## Recipes
 
